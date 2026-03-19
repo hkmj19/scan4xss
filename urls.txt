@@ -1,0 +1,4 @@
+https://testphp.vulnweb.com/listproducts.php?cat=1
+http://site.com/search?q=hello&page=1
+http://a-plussoft.com/en/products.php?id=
+http://site.com/page
